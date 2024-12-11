@@ -3,9 +3,9 @@
 SECTION : BSIT - 307
 Members:
 
-     Names          |               Github Links            |                             Contributions / Scope of Work                 
-Xai Delos Reyes     |     https://github.com/Xaikov563      |     Database/Backend Integrator, Website Concepts, Frontend Integrate to Backend
-Genevieve Subito    |     https://github.com/kznkma         |     Frontend Head and Editor, In-charge of CSS and Javascripts
+     Names          |               Github Links            |                             Contributions / Scope of Work                            | 
+Xai Delos Reyes     |     https://github.com/Xaikov563      |     Database/Backend Integrator, Website Concepts, Frontend Integrate to Backend     | 
+Genevieve Subito    |     https://github.com/kznkma         |     Frontend Head and Editor, In-charge of CSS and Javascripts                        
 Darrel Cardinales   |     https://github.com/Darkov2005     |     Frontend Editor, Website Concepts
 Remie Vegas         |     https://github.com/remieross      |     Frontend Editor, Website Concepts
 Rhodge Violago      |     https://github.com/Drei-Raj       |     Frontend Editor, Website Concepts
