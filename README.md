@@ -3,7 +3,7 @@
 SECTION : BSIT - 307
 Members:
 
-     Names              |               Github Links            |                             Contributions / Scope of Work                            | 
+     Names              |               Github Links            |           Contributions / Scope of Work                            | 
      Xai Delos Reyes    |     https://github.com/Xaikov563      |     Database/Backend Integrator, Website Concepts, Frontend Integrate to Backend     | 
      Genevieve Subito   |     https://github.com/kznkma         |     Frontend Head and Editor, In-charge of CSS and Javascripts                        
      Darrel Cardinales  |     https://github.com/Darkov2005     |     Frontend Editor, Website Concepts
