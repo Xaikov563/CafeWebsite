@@ -23,7 +23,7 @@ Checklist :
       - Contacts ✅
       - Home Page 
       - Cart ✅
-      - Navbar ✅ Responsive ❌ not yet
+      - Navbar ✅ Responsive ✅
       - Footer ✅
       - Find a cafe, button ✅
       - Merchandise ✅
